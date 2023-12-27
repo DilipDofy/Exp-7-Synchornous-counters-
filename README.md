@@ -100,7 +100,8 @@ endmodule
 
 
 ### DOWN COUNTER:
-![image](https://github.com/Raji1009/Exp-7-Synchornous-counters-/assets/89059861/9b524cc1-9a1a-4b3d-9815-21bdd0dbda7f)
+![image](https://github.com/DilipDofy/Exp-7-Synchornous-counters-/assets/147223497/e295707f-c13b-4289-9022-2716008d398a)
+
 
 
 ### TIMING DIGRAMS FOR COUNTER :
