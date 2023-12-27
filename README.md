@@ -96,7 +96,8 @@ endmodule
 ## RTL RELAIZATION : 
 
 ### UP COUNTER:
-![image](https://github.com/Raji1009/Exp-7-Synchornous-counters-/assets/89059861/a4143de5-ff46-4286-8037-63e45d71d44b)
+![image](https://github.com/DilipDofy/Exp-7-Synchornous-counters-/assets/147223497/71e8dd1a-590e-448a-a4e6-af96f7fbe20b)
+
 
 ### DOWN COUNTER:
 ![image](https://github.com/Raji1009/Exp-7-Synchornous-counters-/assets/89059861/9b524cc1-9a1a-4b3d-9815-21bdd0dbda7f)
